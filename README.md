@@ -1,7 +1,7 @@
 ## SnakeGame in console
 This is a simple implementation of the classic Snake game in a console window using C++ and Visual Studio 2022.
 
-
+![SnakeGameGif](screenshots/SnakeGame.gif)
 
 ## How to Play
 Use the arrow keys to control the snake and eat the food. As the snake eats the food, it grows longer and moves faster. Be careful not to run into the walls or your own tail, or the game will end!
